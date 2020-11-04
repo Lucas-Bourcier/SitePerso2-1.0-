@@ -6,7 +6,7 @@
 		<link rel="stylesheet" href="AAA.css"/>
 	</head>
 	<body>
-			<nav>
+			<nav id="aa">
 			<ul>
 				<li><a href="(lien du doc php)">A propos</a></li>
 				<li><a href="(lien du doc php)">Compétences</a></li>
