@@ -1,0 +1,3 @@
+<?
+echo include'commande.php'
+?>
