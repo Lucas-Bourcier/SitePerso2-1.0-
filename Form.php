@@ -19,7 +19,7 @@ echo include'commannde.php'
 				<li><a href="Comp.php">Compétences</a></li>
 				<li><a href="Form.php">Formation</a></li>
 				<li><a href="Exp.php">Expériences</a></li>
-				<li><a href="Index.php">Contact</a></li>
+				<li><a href="Cont.php">Contact</a></li>
 			</ul>
 			</nav>
 			<h1 id="a">Formations</h1>
