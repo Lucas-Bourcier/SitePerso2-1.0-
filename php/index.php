@@ -15,11 +15,11 @@ echo include'commannde.php'
 		  
 			<nav id="aa">
 			<ul>
-				<li><a href="propos.php">A propos</a></li>
-				<li><a href="Comp.php">Compétences</a></li>
-				<li><a href="Form.php">Formation</a></li>
-				<li><a href="Exp.php">Expériences</a></li>
-				<li><a href="Cont.php">Contact</a></li>
+				<li><a href="../propos.php">A propos</a></li>
+				<li><a href="../Comp.php">Compétences</a></li>
+				<li><a href="../Form.php">Formation</a></li>
+				<li><a href="../Exp.php">Expériences</a></li>
+				<li><a href="../Cont.php">Contact</a></li>
 			</ul>
 			</nav>
 			<div id="ex1"></div>
