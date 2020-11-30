@@ -1,22 +1,20 @@
-#body {
- font-family:georgia, serif;
- }
  
 #fond{
 	
-	background-image:	
-                  url("https://i.pinimg.com/originals/b7/6d/6a/b76d6ac6f7fd2f7e5f862b9a0b7c806d.jpg");
+	background-image:	   url("https://i.pinimg.com/originals/b7/6d/6a/b76d6ac6f7fd2f7e5f862b9a0b7c806d.jpg");
 					background-repeat: no-repeat;
 					background-position: center;
 					background-size: auto;
+					 font-family: 'Roboto Mono', monospace; 
 }
 
 #fond2{
-		background-image: url("https://images.vexels.com/media/users/3/128118/isolated/preview/a2d02eb571483802db8847430207d4fe---cone-do-teclado-plano-by-vexels.png"),
+		background-image: url("../Src/ImageFond.png"),
 		url("https://i.pinimg.com/originals/b7/6d/6a/b76d6ac6f7fd2f7e5f862b9a0b7c806d.jpg");
 		background-repeat: no-repeat;
 		background-position: center;
-		  background-size: auto;
+		background-size: auto;
+		 font-family: 'Roboto Mono', monospace; 
 }
 nav ul{
 	padding: 0px;
@@ -50,18 +48,21 @@ nav li a{
 	position: absolute;
 top: 40px; left: 15px;
 color: white;
+text-decoration: underline overline LightGrey;
 }
 
 #Texte{
-	position: absolute;
-	top: 150px; left: 15px;
+	font-size: 16px;
 	color: white;
+	font-size: 18px;
+  text-align:center;
+  text-decoration: underline grey;
 }
 
 #Citation{
-	position: absolute;
-	top: 200px; left: 15px;
 	color: white;
+	text-align:center;
+	text-decoration: underline DarkGrey;
 }
 
 #NP {
@@ -89,7 +90,7 @@ color: white;
 	padding:20px;
 	margin:0px;
 	border-right:2px solid #CCCCCC;
-	
+	font-size: 18px;
 	
 }
 
@@ -126,20 +127,23 @@ color: white;
 #TextCSS{
 	color:white;
 	position: absolute;
-top: 195px; left: 160px;
+top: 190px; left: 160px;
+	font-size: 18px;
 }
 
 #TextHtml{
 	color:white;
 	position: absolute;
-top: 235px; left: 160px;
+top: 230px; left: 160px;
+	font-size: 18px;
 }
 
 
 #Textphp{
 	color:white;
 	position: absolute;
-top: 275px; left: 160px;
+top: 270px; left: 160px;
+	font-size: 18px;
 } 
 
 img{
@@ -151,7 +155,8 @@ img{
 	text-align:none;
 	font-weight:bold;
 	position: absolute;
-top: 200px; left: 160px;
+top: 190px; left: 160px;
+	font-size: 20px;
 }
 
 #p2{
@@ -159,7 +164,8 @@ top: 200px; left: 160px;
 	text-align:none;
 	font-weight:bold;
 	position: absolute;
-top: 240px; left: 160px;
+top: 230px; left: 160px;
+	font-size: 20px;
 }
 
 #p3{
@@ -167,7 +173,8 @@ top: 240px; left: 160px;
 	text-align:none;
 	font-weight:bold;
 	position: absolute;
-top: 280px; left: 160px;
+top: 270px; left: 160px;
+	font-size: 20px;
 }
 
 #O {
@@ -180,13 +187,24 @@ top: 280px; left: 160px;
 }
 
 #s{
-	Color: White;
-	border-right:3px solid #CCCCCC;
-	border-left:3px solid #CCCCCC;
-	border-bottom:3px solid #CCCCCC;
-	border-top:3px solid #CCCCCC;
+	background-color: Black;
+	Color: white;
+	opacity:90%;
+	border-right:5px solid lightgrey;
+	border-left:5px solid lightgrey;
+	border-bottom:5px solid lightgrey;
+	border-top:5px solid lightgrey;
 		position: absolute;
-		top: 200px; left:370px;
+		top: 200px; left:335px;
+		font-size: 35px;
+}
+a:hover {
+  background-color: silver;
+}
+
+#m{
+	position:absolute;
+	top:300px;left:340px;
 }
 
 #D{
@@ -197,6 +215,7 @@ top: 280px; left: 160px;
 	border-top:3px solid #CCCCCC;
 		position: absolute;
 		top: 700px; left:680px;
+		
 }
 
 #aaaa{
