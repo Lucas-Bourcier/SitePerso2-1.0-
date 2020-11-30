@@ -1,1 +1,0 @@
-web: vendor/bin/heroku-php-apache2 propos/propos.php
