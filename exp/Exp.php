@@ -17,7 +17,7 @@ echo include'commannde.php'
 			<ul>
 				<li><a href="../propos/propos.php">A propos</a></li>
 				<li><a href="../comp/Comp.php">Compétences</a></li>
-				<li><a href="../form/Form.php">Formation</a></li>
+				<li><a href="../Form/Form.php">Formation</a></li>
 				<li><a href="Exp.php">Expériences</a></li>
 				<li><a href="../contact/Cont.php">Contact</a></li>
 			</ul>
