@@ -2,6 +2,7 @@
 echo include'commannde.php'
 ?>
 <a href="<?php $url_propos; ?>" ><?php $Propos; ?></a>
+<a href="<?php $url_propos; ?>" ><?php $Propos; ?></a>
 <!DOCTYPE html>
 <html>
     <head>
@@ -16,7 +17,7 @@ echo include'commannde.php'
 			<ul>
 				<li><a href="../propos/propos.php">A propos</a></li>
 				<li><a href="../comp/Comp.php">Compétences</a></li>
-				<li><a href="../Form/Form.php">Formation</a></li>
+				<li><a href="../form/Form.php">Formation</a></li>
 				<li><a href="Exp.php">Expériences</a></li>
 				<li><a href="../contact/Cont.php">Contact</a></li>
 			</ul>
@@ -40,7 +41,7 @@ echo include'commannde.php'
 			<td id="NA"><img src="https://www.lesfrontaliers.lu/wp-content/uploads/default/main/articles/chomage-hausse-lux.png">
 			<br><br>Experiences personnelle acquise en Développement</td>
 		</tr>
-		<h2 id="s"><a id="s" href="../Src/CVLBOUR.pdf">CV</h2>
+		<h2 id="m"><a id="s" href="../Src/CVLBOUR.pdf">Télécharger mon CV </h2>
 		<h2><a id="D" href="../mentions/mentions.html">Mentions Légales</h2>
 		  </body>
 </html>
